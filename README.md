@@ -1,4 +1,10 @@
 ## Hi there 👋
+- I am a computer science student
+- Greater Flint Area
+- Pronouns: he/him
+
+## Currently
+- I'm currently learning introductory Python
 
 <!--
 **j-zur/j-zur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
